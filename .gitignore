@@ -1,0 +1,11 @@
+venv/
+env/
+.env
+.streamlit/
+.streamlit/secrets.toml
+temp_uploads/
+uploads/
+processed_files.json
+chroma_db/
+.DS_Store
+Thumbs.db
