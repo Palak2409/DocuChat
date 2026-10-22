@@ -18,7 +18,7 @@
 
 **Frontend: Streamlit**
 
-- **LLM**: Google Gemini 2.5 Flash (via google-generativeai)
+- **LLM**: Google Gemini 3.8 Flash (via google-generativeai)
 - **Vector Store**: ChromaDB
 - **Embeddings**: Sentence Transformers (all-MiniLM-L6-v2)
 - **Text Extraction**: PyMuPDF (PDFs) and python-docx (Word docs)
@@ -31,7 +31,7 @@ Follow these steps to run the application locally.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Ishita-01/DocuChat.git
+git clone https://github.com/Palak2409/DocuChat.git
 ```
 
 ### 2. Create a Virtual Environment (Recommended)
