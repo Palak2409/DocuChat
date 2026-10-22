@@ -85,7 +85,7 @@ streamlit run app.py
 - **Embedding**: The all-MiniLM-L6-v2 model converts these chunks into vector embeddings.
 - **Storage**: Embeddings are stored in a temporary, in-memory ChromaDB collection.
 - **Retrieval**: When you ask a question, the system searches for the most relevant text chunks.
-- **Generation**: The relevant chunks + your question are sent to Gemini 2.5 Flash, which generates an answer based solely on that context.
+- **Generation**: The relevant chunks + your question are sent to Gemini 3.8 Flash, which generates an answer based solely on that context.
 
 ---
 
